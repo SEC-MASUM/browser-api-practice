@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=tOfjAC9BA0w
 ৭. জাভাস্ক্রিপ্ট এর কোন কোন জিনিস asynchronous সেটার একটা লিষ্ট গুগলে সার্চ দিয়ে বের করে ফেলো। এবং এই asynchronous বলতে কি বুঝায় সেটাও দেখে রাখো।
 https://www.youtube.com/watch?v=M1mPgA3ZnJE
 https://www.youtube.com/watch?v=IUBd76UQb34&t=35s
+https://bitsofco.de/asynchronous-functions-101/
+
 
 ৮. event loop লুপ কি জিনিস। এই রিলেটেড পুরা জিনিসটা আজকে অনেকেই বুঝবে না। তাও আরেকবার দেখে রাখবে।
 https://www.youtube.com/watch?v=8aGhZQkoFbQ
