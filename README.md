@@ -17,8 +17,12 @@
 [হোম ওয়ার্ক]
 
 ৬. জাভাস্ক্রিপ্ট এর কোড কিভাবে ব্রাউজারের মধ্যে রান করে। দরকার হলে গুগল বা ইউটিউবে সার্চ দিয়ে একটু ভালো করে দেখে রাখো।
+https://www.youtube.com/watch?v=Wk0-6b1W_VQ
+https://www.youtube.com/watch?v=tOfjAC9BA0w
 
 ৭. জাভাস্ক্রিপ্ট এর কোন কোন জিনিস asynchronous সেটার একটা লিষ্ট গুগলে সার্চ দিয়ে বের করে ফেলো। এবং এই asynchronous বলতে কি বুঝায় সেটাও দেখে রাখো।
+https://www.youtube.com/watch?v=M1mPgA3ZnJE
+https://www.youtube.com/watch?v=IUBd76UQb34&t=35s
 
 ৮. event loop লুপ কি জিনিস। এই রিলেটেড পুরা জিনিসটা আজকে অনেকেই বুঝবে না। তাও আরেকবার দেখে রাখবে।
 https://www.youtube.com/watch?v=8aGhZQkoFbQ
